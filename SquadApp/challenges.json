@@ -1,0 +1,269 @@
+ [
+  {
+  "challengeName": "Truth or Eat",
+  "challengeNumber": 1,
+  "numberOfPlayers": 2,
+  "challengeDescription": "Prepare a number of dishes using odd combinations of food (like peanut butter and ketchup sandwich). Lay them on a table. The game is to select a dish and then taking turns asking someone a question (e.g. who’s your current crush?). If the person doesn’t want to answer the question, he/she has to eat the selected dish.",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Only Questions",
+  "challengeNumber": 2,
+  "numberOfPlayers": 2,
+  "challengeDescription": "Two squad members challenge each other to have a dialog with only questions. The first one to say something other than a question loses.",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Try not to Laugh",
+  "challengeNumber": 3,
+  "numberOfPlayers": 2,
+  "challengeDescription": "Go online and search for “try not to laugh” videos. The objective is to watch them and not laugh. The last person to laugh is the winner!",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "In the News",
+  "challengeNumber": 4,
+  "numberOfPlayers": 4,
+  "challengeDescription": "Choose a member of the squad to go to another room where he can’t hear anyone. The squad then selects a celebrity to assign to the excluded member (e.g. Harry Potter). Then, bring the person back and the squad will ask questions as they were reporters, as to give hints for the celebrity on who he/she is (e.g. hello, my name is John from Chicago News, my question is: “Does your scar hurt a lot?”). The game ends when the person discover who he/she is.",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Stork Race",
+  "challengeNumber": 5,
+  "numberOfPlayers": 2,
+  "challengeDescription": "Divide your squad into two teams. Find a couple of oranges or something with a similar size. Draw a line on the floor or put a shoe to mark a finish line. Two people will race each other trying to keep the object between the legs to drop it after the finish line. If someone drops the object before the finish line, he/she has to go back to the beginning and try again. The objective is to have your whole squad drop an orange after the finish line.",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Grandma went to Paris",
+  "challengeNumber": 6,
+  "numberOfPlayers": 2,
+  "challengeDescription": "Players sit in a circle. This is a memorization game. The first player will say “my grandma went to Paris and brought a … (e.g. cologne).” The next player will say “my grandma went to Paris and brought a…” and then the first object and a new one (e.g. cologne and an orange). If someone messes up or forgets a word, he/she is eliminated.",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Guess the Sentence",
+  "challengeNumber": 7,
+  "numberOfPlayers": 2,
+  "challengeDescription": "Players sit in a circle. Each player writes a sentence on a piece of paper and gives to the person to the left of him/her. This person has to draw to everyone the word in the piece of paper received. The first person to guess the word right wins a point. The person with most points is the winner.",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "2 Truths and a Lie",
+  "challengeNumber": 8,
+  "numberOfPlayers": 2,
+  "challengeDescription": "In this game, every squad member thinks of two truths and a lie about themselves. Players take turns telling them their truths and lie and the other players need to guess which sentence was a lie.",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Face the Cookie",
+  "challengeNumber": 9,
+  "numberOfPlayers": 2,
+  "challengeDescription": "Choose two players to challenge each other by placing a cookie on their forehead. The objective is to eat the cookie by moving you face until you get the cookie in your mouth without using your hands.",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Picture Hunt",
+  "challengeNumber": 10,
+  "numberOfPlayers": 5,
+  "challengeDescription": "This game must be played at a shopping mall, a supermarket, or park. Choose one person to be the judge and divide the rest into two groups. The judge will select a number of items that can be found in the selected place (e.g. a blue shirt, white snickers, ketchup, a person wearing a military shirt, etc.) and write them down in two pieces of paper. He/she will then give each group one list and the team must search for those items and take a picture of them. The first group to find all items and then find the judge is the winner.",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Tough Questions",
+  "challengeNumber": 11,
+  "numberOfPlayers": 2,
+  "challengeDescription": "Each player grabs a piece of paper and writes an embarrassing question (“when was the last time you cried?”, “who is your latest crush?”, “How old were you when you had your first kiss?”) and put them together on a jar. Each player will pick a piece of paper and read one question. Everyone else needs to answer the question.",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Freeze Tag",
+  "challengeNumber": 12,
+  "numberOfPlayers": 5,
+  "challengeDescription": "This is a classic game of tag except when “it“ tags someone the person gets frozen. Everyone else can tag to unfreeze. For larger groups, you may have more than one person be “it.“",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "The Dizzy Challenge",
+  "challengeNumber": 13,
+  "numberOfPlayers": 2,
+  "challengeDescription": "Draw a straight line or place tape on the floor in form of a line. Spin the contestant a couple of times and then have him/her try to walk on the straight line. Be careful!",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Camera Hot Potato",
+  "challengeNumber": 14,
+  "numberOfPlayers": 3,
+  "challengeDescription": "Make your squad sit in a circle and set a timer on your camera. Start recording and make each member of the squad must look at the camera and then pass it to the next person. When the phone takes the picture, the person in the picture is eliminated!",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Charades",
+  "challengeNumber": 15,
+  "numberOfPlayers": 2,
+  "challengeDescription": "Divide the squad into two teams. Each team chooses a player to act out a word. The opposing team chooses the word to be acted out. If the team guesses it right, it gets a point.",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Capture the Flag",
+  "challengeNumber": 16,
+  "numberOfPlayers": 6,
+  "challengeDescription": "Choose an open space to play this game. Set a line in the middle of the space and place each team on a different side of the line. Next, place a shoe or a small object on the end of each side as the “flag”. The objective of the game is to cross the enemy’s field, grab the “flag” and run back to your side without being tagged by an enemy. If you are tagged you must stand still until someone in your team tags you.",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Balloon Stomping",
+  "challengeNumber": 17,
+  "numberOfPlayers": 4,
+  "challengeDescription": "Attach a balloon to the ankle of each participant. The game is to pop the other participant's balloons while keeping yours safe. The last person to have their balloon popped is the winner.",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Rock, Paper, Scissors Rush",
+  "challengeNumber": 18,
+  "numberOfPlayers": 2,
+  "challengeDescription": "Divide all players into pairs. On the count of three, all pairs will play rock, paper, scissors. The winners will find another winner to play the next round. This goes on until there is only one winner!",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Sticker Stalker",
+  "challengeNumber": 19,
+  "numberOfPlayers": 3,
+  "challengeDescription": "Give everyone in the squad some stickers. The point is to put the stickers on the members of the squad without them noticing. If they do notice, they put a sticker on you. The winner is the first to use all his stickers!",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Dance Battle",
+  "challengeNumber": 20,
+  "numberOfPlayers": 3,
+  "challengeDescription": "Two squad members are chosen to dance. The crowd then choses a music clip and the chosen members have to copy the dance moves while the video is playing. The best dancer is the winner!",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Stop!",
+  "challengeNumber": 21,
+  "numberOfPlayers": 2,
+  "challengeDescription": "On a piece of paper, make five columns with the titles: Names, Countries, Colors, Animals, and Food. Every turn, all members of the squad will throw a number with their hands. Count the total number as a letter in the alphabet (e.g. 1=A, 2=B, 3=C, 7=G, 13=M). Then all the squad members have to try to write something on each of the columns (e.g. for letter C, name: Carlos, country: Colombia, Animal: Cat, and Food: Chicken drums) as fast as they can. Whenever someone finishes all the columns he/she yells “stop!” Everyone has to stop writing. Then, everyone reveals their writings. If someone wrote something that no one else did, he/she gets 3 points. If two or more people wrote the same thing, they both get 1 point. After 10 rounds, whoever has more points is the winner.",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "The Accent Challenge",
+  "challengeNumber": 22,
+  "numberOfPlayers": 2,
+  "challengeDescription": "Competitors are filmed doing a different accent, and the crowd will judge who has the best one!",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Moving Dirt Game",
+  "challengeNumber": 23,
+  "numberOfPlayers": 4,
+  "challengeDescription": "One player puts his/her arms on the floor while another grabs his ankles with his hands to form one team. Two teams then will race by having the person with his hands on the floor move using his hands.",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "7 Second Challenge",
+  "challengeNumber": 24,
+  "numberOfPlayers": 2,
+  "challengeDescription": "The point of this game is to select 7 tasks and try to do as many as you can in 7 seconds (e.g. push-ups, dabbing, shuffling, playing air-guitar, doing the Carlton, crying, and laughing). Whoever makes more actions in 7 seconds is the winner.",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Switch",
+  "challengeNumber": 25,
+  "numberOfPlayers": 3,
+  "challengeDescription": "The group chooses a location, a person, and something to do (e.g. “Hulk, in Kentucky, doing laundry”). A couple of players are chosen to act a scene. One person in the audience has the chance to say “switch” after an actor said something. The actor then has to say something different from what he/she previously said and change the course of the scene (e.g. “your boyfriend looks great” – “switch” – “your boyfriend looks terrible” – “switch” – “I killed your boyfriend“).",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Likes and Dislikes",
+  "challengeNumber": 26,
+  "numberOfPlayers": 4,
+  "challengeDescription": "Everyone in the squad writes on a piece of paper their likes and dislikes (e.g. Likes: Marvel movies, orange juice – Dislikes: cockroaches, plums). Put all the pieces of paper together and then pull one and read it out loud. Everyone has to guess the person that wrote those likes and dislikes.",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Lip Sync Battle",
+  "challengeNumber": 27,
+  "numberOfPlayers": 3,
+  "challengeDescription": "Select a couple of squad members to lip sync a song. The crowd then votes on the best one!",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Detective",
+  "challengeNumber": 28,
+  "numberOfPlayers": 4,
+  "challengeDescription": "Write on pieces of paper (equal to the number of players) 1 “assassin“, 1 “detective“, and the rest as “victims“. Then, fold the pieces of paper, sort them, and distribute to every person. The point of this game is for the assassin to kill every victim by blinking to them without being caught by the detective. The detective has one chance to catch the assassin by pointing to someone and saying “you are under arrest!” If the detective chooses someone that is not the assassin, he/she loses, if he chooses the assassin, he/she wins. If the assassin kills everyone but the detective, he/she is the winner.",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Best Worst Gift",
+  "challengeNumber": 29,
+  "numberOfPlayers": 3,
+  "challengeDescription": "Members of the squad select a budget for a gift (e.g. 5 dollars) and are assigned a person to give their gift. The squad then goes out to find the funniest gift within the budget. The funniest gift is the winner.",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "4D Movie",
+  "challengeNumber": 30,
+  "numberOfPlayers": 4,
+  "challengeDescription": "Everyone writes on pieces of paper names of movies. Then divide the squad into two teams and some judges. Each team grabs a piece of paper with a movie and then has 5 minutes to prepare a scene from the movie. The judges will choose the winners.",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Favorite Internet Video",
+  "challengeNumber": 31,
+  "numberOfPlayers": 2,
+  "challengeDescription": "Everyone in the squad shows their favorite videos from the internet.",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Snapchat Movie",
+  "challengeNumber": 32,
+  "numberOfPlayers": 4,
+  "challengeDescription": "Divide the squad into two teams and a judge. Each team will have 1 hour to create a short movie using Snapchat. The team with the best movie wins (if you don't have Snapchat, just use your camera to make the movie).",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Ultimate Tic-Tac-Toe",
+  "challengeNumber": 33,
+  "numberOfPlayers": 4,
+  "challengeDescription": "Divide the squad into two teams and give each team 3 starbursts of the same color. Write on a paper the classic game of tic-tac-toe and place it on a table away from the two teams. On the count of three, one player from each team will run to the table and place a starburst of his team’s color into the tic-tac-toe game. He then has to return and tag another team member for another run. If the team put all 3 starbursts already, the player can take one out and put in a different spot. The game goes on until a team wins the tic-tac-toe.",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Mr. Postman",
+  "challengeNumber": 34,
+  "numberOfPlayers": 4,
+  "challengeDescription": "Get some chairs and set up a circle and have people sit. One person stands in the middle as Mr. Postman. Him/her will yell “Delivery to everyone that…” and then choose a sentence (e.g. “that lives in an apartment,” “that has a cat,” “that is wearing blue”). Everyone that can relate to the sentence has to stand up and find another seat, giving Mr. Postman a chance to take someone’s spot.",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Musical Chairs",
+  "challengeNumber": 35,
+  "numberOfPlayers": 5,
+  "challengeDescription": "First, choose someone to be the judge. Put a number of chairs in a circle equal to the number of participants -1. The judge will play a song on his phone while the participants walk around the chairs. When the music stops, the players have to find a seat. Whoever didn’t find a seat, is eliminated. Then, remove one chair and start a new song. The last person to be eliminated is the winner!",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Make Me Laugh",
+  "challengeNumber": 36,
+  "numberOfPlayers": 2,
+  "challengeDescription": "Divide the squad into two teams. One team chooses a member to go and sit on a “hot spot” in front of everyone. The opposing team then has to try to make that person laugh in 2 minutes. If they do, they score. After that, switch teams.",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Saltine Cracker Challenge",
+  "challengeNumber": 37,
+  "numberOfPlayers": 2,
+  "challengeDescription": "Two squad members challenge each other to see who can eat more saltines in 1 minute.",
+  "userDidIt": 0
+  },
+  {
+  "challengeName": "Best Free Gift",
+  "challengeNumber": 38,
+  "numberOfPlayers": 4,
+  "challengeDescription": "The squad is separated into two teams and one judge. The teams then go knocking doors asking neighbors for anything they can give them for free. The team with the best gift (chosen by the judge) is the winner.",
+  "userDidIt": 0
+  },
+  ]
+
